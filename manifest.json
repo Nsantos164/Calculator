@@ -1,0 +1,12 @@
+{
+  "name": "NEWS2 Açores",
+  "short_name": "NEWS2",
+  "description": "Calculadora NEWS2 para avaliação clínica.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0B5C73",
+  "background_color": "#F3F6F7",
+  "lang": "pt-PT"
+}
